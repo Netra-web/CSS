@@ -1,0 +1,24 @@
+
+
+p.solid {
+    border-style: solid;
+    background-color: #00ffff;
+    padding: 10px;
+}
+ 
+a:link ,a:visited {
+    color: black;
+  }
+   
+  a:link:active, a:visited:active {
+    color: red;
+  }
+  /* mouse over link */
+  a:hover {
+    color: yellow;
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+  }
